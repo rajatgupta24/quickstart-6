@@ -37,5 +37,5 @@ spec:
           resources: {}
   podTemplate: {}
   serviceAccountName: tekton-bot
-  timeout: 12h0m0s
+  timeout: 1h0m0s
 status: {}
