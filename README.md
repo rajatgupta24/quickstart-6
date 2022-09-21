@@ -27,3 +27,4 @@ This command :
 - checks for `XDG_CONFIG_HOME` variable in $HOME dir.
 - reads the `jx-requirement.yml` from cluster-repo.
 - take github-credentials *username and password*
+
