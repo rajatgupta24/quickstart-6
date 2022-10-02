@@ -7,7 +7,6 @@ spec:
     always_run: true
     optional: false
     source: "pullrequest.yaml"
-    skip_draft_pr_build: false
   postsubmits:
   - name: release
     context: "release"
